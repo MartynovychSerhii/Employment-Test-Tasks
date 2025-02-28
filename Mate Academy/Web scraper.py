@@ -60,7 +60,7 @@ class MateAcademyScraper:
         try:
             return self.strip_elem(self.driver.find_element(By.CSS_SELECTOR, selector))
         except Exception as e:
-            return f"Data not found {str(e)}"
+            return f"Дані не знайдено {str(e)}"
 
 
     def extract_to_dict(self, **kwargs):
@@ -92,7 +92,6 @@ class MateAcademyScraper:
             print("⚠ Немає курсів для відображення!")
 
     def close(self):
-        """Закриває браузерну сесію."""
         self.driver.quit()
 
 
