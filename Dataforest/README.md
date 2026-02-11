@@ -1,6 +1,6 @@
 # Company Data Matching Project
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/ВАШ_ЮЗЕРНЕЙМ/НАЗВА_РЕПО/blob/main/ВАШ_ФАЙЛ.ipynb](https://colab.research.google.com/github/MartynovychSerhii/Employment-Test-Tasks/blob/main/Dataforest/DataForest_test_Martynovych.ipynb))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MartynovychSerhii/Employment-Test-Tasks/blob/main/Dataforest/DataForest_test_Martynovych.ipynb)
 
 This project provides a robust solution for entity resolution and data matching between two disparate company datasets using fuzzy logic and address validation.
 
